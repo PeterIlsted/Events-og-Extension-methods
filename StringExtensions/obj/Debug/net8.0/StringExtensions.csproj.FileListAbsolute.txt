@@ -1,0 +1,14 @@
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\bin\Debug\net8.0\StringExtensions.exe
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\bin\Debug\net8.0\StringExtensions.deps.json
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\bin\Debug\net8.0\StringExtensions.runtimeconfig.json
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\bin\Debug\net8.0\StringExtensions.dll
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\bin\Debug\net8.0\StringExtensions.pdb
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\obj\Debug\net8.0\StringExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\obj\Debug\net8.0\StringExtensions.AssemblyInfoInputs.cache
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\obj\Debug\net8.0\StringExtensions.AssemblyInfo.cs
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\obj\Debug\net8.0\StringExtensions.csproj.CoreCompileInputs.cache
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\obj\Debug\net8.0\StringExtensions.dll
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\obj\Debug\net8.0\refint\StringExtensions.dll
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\obj\Debug\net8.0\StringExtensions.pdb
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\obj\Debug\net8.0\StringExtensions.genruntimeconfig.cache
+C:\Users\pibm9\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Dokumenter\Datamatiker\Programmering\2. semester\StringExtensions\StringExtensions\obj\Debug\net8.0\ref\StringExtensions.dll
