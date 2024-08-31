@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringExtensionsUnitTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e25e5cb5445454e76a41a035ded852719cce539")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringExtensionsUnitTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringExtensionsUnitTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
